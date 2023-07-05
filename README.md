@@ -1,6 +1,6 @@
 # Hotel System
 
-[The Hotel System is a Java-based application that provides a comprehensive solution for managing hotel operations. It offers a range of features to streamline various aspects of hotel management, including guest management, room reservations, and other stuff]
+The Hotel System is a Java-based application that provides a comprehensive solution for managing hotel operations. It offers a range of features to streamline various aspects of hotel management, including guest management, room reservations, and other stuff
 
 ## Table of Contents
 
@@ -12,9 +12,9 @@
 
 ## Features
 
-- Room Management: [The system allows users to add, edit, and remove rooms, including details such as room number, type, availability, and pricing. It provides a convenient way to search for available rooms based on criteria such as room type and occupancy.]
-- Reservation Management: [Users can make room reservations for guests, specifying the check-in and check-out dates, room preferences, and guest details. The system ensures that conflicting reservations are not made.]
-- Guest Management: [The system keeps track of guest information, including personal details and contact information. It enables user-friendly guest check-ins and check-outs, updating room availability and generating invoices automatically.]
+- Room Management: The system allows users to add, edit, and remove rooms, including details such as room number, type, availability, and pricing. It provides a convenient way to search for available rooms based on criteria such as room type and occupancy.
+- Reservation Management: Users can make room reservations for guests, specifying the check-in and check-out dates, room preferences, and guest details. The system ensures that conflicting reservations are not made.
+- Guest Management: The system keeps track of guest information, including personal details and contact information. It enables user-friendly guest check-ins and check-outs, updating room availability and generating invoices automatically.
 
 ## Installation
 
