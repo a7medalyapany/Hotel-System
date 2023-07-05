@@ -18,12 +18,10 @@
 
 ## Installation
 
-[Provide step-by-step instructions on how to install and set up your project.]
-
 1. Clone the repository:
 
-```bash
-git clone https://github.com/a7medalyapany/Hotel-System.git
+   ```bash
+   git clone https://github.com/a7medalyapany/Hotel-System.git
 
 2. Navigate to the Project Directory:
 
@@ -32,15 +30,18 @@ git clone https://github.com/a7medalyapany/Hotel-System.git
 
 3. Build the Project:
 
+   ```bash
    javac -d bin src/*.java
 
 4. Run the Project:
 
+   ```bash
    java -cp bin Hotel
+
 
 ## Contributing
 
-[Contributions to the Hotel System project are welcome!, you can work on GUI or database for this project, If you want to contribute, please follow these steps:]
+Contributions to the Hotel System project are welcome!, you can work on GUI or database for this project, If you want to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature/bug fix.
