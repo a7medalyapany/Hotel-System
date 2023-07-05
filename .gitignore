@@ -1,0 +1,12 @@
+# Ignore build artifacts
+build/
+
+# Ignore IDE-specific files
+.classpath
+.project
+.settings/
+nbproject/
+
+# Build configuration files
+build.xml
+manifest.mf
