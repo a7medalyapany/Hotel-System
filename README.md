@@ -51,7 +51,7 @@ Contributions to the Hotel System project are welcome!, you can work on GUI or d
 
 ## License
 
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for more details.`
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
